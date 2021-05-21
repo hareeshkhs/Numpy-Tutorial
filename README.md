@@ -1,2 +1,2 @@
 # Numpy-Tutorial
-Introduction to numpy and Operations in numpy.
+Introduction and Operations in numpy.
