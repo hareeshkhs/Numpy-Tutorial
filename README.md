@@ -11,3 +11,17 @@ It is an extension module of Python which is mostly written in C. It provides va
 NumPy provides various powerful data structures, implementing multi-dimensional arrays and matrices. These data structures are used for the optimal computations regarding arrays and matrices.
 
 In this tutorial, we will go through the numeric python library NumPy.
+
+# The need of NumPy
+With the revolution of data science, data analysis libraries like NumPy, SciPy, Pandas, etc. have seen a lot of growth. With a much easier syntax than other programming languages, python is the first choice language for the data scientist.
+
+NumPy provides a convenient and efficient way to handle the vast amount of data. NumPy is also very convenient with Matrix multiplication and data reshaping. NumPy is fast which makes it reasonable to work with a large set of data.
+
+There are the following advantages of using NumPy for data analysis.
+
+NumPy performs array-oriented computing.
+It efficiently implements the multidimensional arrays.
+It performs scientific computations.
+It is capable of performing Fourier Transform and reshaping the data stored in multidimensional arrays.
+NumPy provides the in-built functions for linear algebra and random number generation.
+Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replacement to MATLAB as Python is more complete and easier programming language than MATLAB.
