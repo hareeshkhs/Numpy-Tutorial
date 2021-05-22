@@ -1,4 +1,4 @@
-# Numpy-Tutorial
+# Numpy-Tutorial (Crash Course on Numpy)
 Introduction and Operations in numpy.
 
 # What is NumPy
